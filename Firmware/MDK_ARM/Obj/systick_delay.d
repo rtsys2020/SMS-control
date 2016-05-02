@@ -1,0 +1,12 @@
+.\obj\systick_delay.o: ..\USER_DRIVER\systick_delay\systick_delay.c
+.\obj\systick_delay.o: ..\USER_DRIVER\systick_delay\systick_delay.h
+.\obj\systick_delay.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\systick_delay.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\systick_delay.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\systick_delay.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\systick_delay.o: ..\USER\stm32f10x_conf.h
+.\obj\systick_delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\obj\systick_delay.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\systick_delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\systick_delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\systick_delay.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h

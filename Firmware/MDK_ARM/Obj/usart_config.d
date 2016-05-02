@@ -1,0 +1,15 @@
+.\obj\usart_config.o: ..\USER_DRIVER\USART\USART_Config.c
+.\obj\usart_config.o: ..\USER_DRIVER\USART\USART_config.h
+.\obj\usart_config.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\usart_config.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\usart_config.o: ..\Libraries\CMSIS\CM3\CoreSupport\core_cm3.h
+.\obj\usart_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\usart_config.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\obj\usart_config.o: ..\USER\stm32f10x_conf.h
+.\obj\usart_config.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\obj\usart_config.o: ..\Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\obj\usart_config.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\usart_config.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\usart_config.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\obj\usart_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\usart_config.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -1,0 +1,8 @@
+kiem tra nhiet do do am
+
+-                 Nhiet do cam bien >= Nhiet do dat + 2 do     -----> bat motor ben trong va ben ngoai
+- Nhiet do dat <= Nhiet do cam bien <  Nhiet do dat + 2 do     -----> bat motor ben trong, tat motor ben ngoai
+-                 Nhiet do cam bien <  Nhiet do dat            -----> tat motor ben ngoai va ben trong
+
+RELAY2: TRONG NHA
+RELAY2: NGOAI TROI
